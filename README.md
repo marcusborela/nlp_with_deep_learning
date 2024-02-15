@@ -1,8 +1,13 @@
-# Exercícios para seleção de aluno especial para a disciplina IA024 na Unicamp
+# Exercícios para seleção de aluno especial para a disciplina IA024 (NLP with Deep Learning) na Unicamp
 
 Aluno: Marcus Vinícius Borela de Castro
 
+[Sobre o curso IA024 - NLP with Deep Learning](https://sites.google.com/unicamp.br/deep-learning-nlp)
 
-Sobre o curso: https://sites.google.com/unicamp.br/deep-learning-nlp 
+Exercício de seleção (links): 
 
-Código do exercício de seleção: https://colab.research.google.com/drive/1O-shgoQKbgXqix3bQWObnHAaVcguwXAq#scrollTo=z_G2BGjh57xx 
+* Enunciado
+* Caderno jupyter
+* Relatório
+* [Artigo lido](https://arxiv.org/pdf/2108.07258.pdf)
+* Tópicos do artigo
