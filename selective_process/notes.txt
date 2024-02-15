@@ -1,0 +1,11 @@
+Para mim é uma grande honra participar até mesmo do processo de seleção para disciplinas com o Professor Lotufo (e Professor Rodrigo Nogueira). Dessa vez, parece-me que teremos um novo professor: Jayr. Sempre bom termos novos mentores!
+
+Aprendo muito nesses processos seletivos. E é só uma pontinha do que aprendemos na disciplina. Isso compensa em muito os carnavais sacrificados nas seleções (kkkk).
+
+Percebo que cada vez está mais fácil codificar e responder às questões, graças ao chatGPT. Contudo, ele de vez em quando traz alguns erros quase imperceptíveis (no meu caso, lembro-me de uma tabulação incorreta na função evaluate: iria trazer uma reposta, mas errada, considerando só o último batch. Ainda bem que percebi de cara!), o que nos exige um “metaconhecimento” da resposta esperada. Como bem colocado no artigo estudado, essa situação reflete um pouco das novas capacidades dos “foundation models”.
+
+Criei um repositório público específico para o exercício: https://github.com/marcusborela/nlp_with_deep_learning.
+ 
+Esclareço que, por questão de legibilidade do código, optei por fazer o relatório a partir do caderno jupyter para demonstrar o passo a passo no código do impacto das questões.  Até porque havia questões que eram para mudar o código (como a V.2.a e V.3.d). Formatei as perguntas como seções para facilitar sua visualização (outline no vscode ou índice no colab). Bom que ficou uma documentação viva. Fora que gerar o relatório foi só imprimir como pdf o caderno. Contudo, se essa formatação não atender, peço que me avisem pois posso gerar uma nova versão mais enxuta. 
+
+Fico na torcida para conseguir uma das disputadas vagas. De repente poder aperfeiçoar trabalhos de disciplinas anteriores no novo contexto de LLM (comparativo/análise), e assim ajudar na avaliação dos “foundation models” em NLP.
